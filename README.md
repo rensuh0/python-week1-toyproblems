@@ -33,7 +33,7 @@ Write a function solution that, given an integer N, returns a string of length N
 
 
 ## Set-up Instructions
-1. Clone this repository to your local machine ; https://github.com/willy3000/python-code-challenge
+1. Clone this repository to your local machine ; https://github.com/rensuh0/python-code-challenge
 2. run files in your termial.
 
 
